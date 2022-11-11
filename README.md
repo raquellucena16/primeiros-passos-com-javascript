@@ -1,1 +1,2 @@
-# primeiros-passos-com-javascript
+# Primeiros passos com JavaScript
+Repositório sobre aprendizados básicos do JavaScript
